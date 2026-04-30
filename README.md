@@ -44,7 +44,7 @@ The Vestibular Eye changes that.
 
 ### Prerequisites
 
-- <a href="https://developers.snap.com/lens-studio">Lens Studio 5.4+</a>
+- <a href="https://ar.snap.com/spectacles">Lens Studio 5.15.4+</a>
 - Snap Spectacles (or the Lens Studio preview for testing)
 
 ### Clone the Repository
