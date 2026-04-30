@@ -29,7 +29,6 @@ The Vestibular Eye changes that.
 
 - **Platform:** <a href="https://developers.snap.com/lens-studio">Lens Studio</a> for Snap Spectacles
 - **Language:** TypeScript
-- **Eye Tracking:** Spectacles built-in eye-tracking API
 - **Interaction:** <a href="https://developers.snap.com/spectacles/spectacles-frameworks/spectacles-interaction-kit/get-started">Spectacles Interaction Kit (SIK)</a>
 
 ## 📁 Architecture
