@@ -2,7 +2,9 @@
 
 **Using Snap Spectacles to make eye exercises fun, trackable, and effective.**
 
-Built on <a href="https://www.spectacles.com/">Snap Spectacles</a>, The Vestibular Eye transforms boring, unmonitored vestibular rehabilitation exercises into an engaging AR game where **your gaze is the controller**.
+Built on Snap Spectacles, The Vestibular Eye transforms boring, unmonitored vestibular rehabilitation exercises into an engaging AR game where **your gaze is the controller**.
+
+https://github.com/user-attachments/assets/082ebd1d-a57a-4ae3-9a92-beeb7d351651
 
 ## 💡 Inspiration
 
@@ -12,16 +14,16 @@ The Vestibular Eye changes that.
 
 ## 🚀 What It Does
 
-- **Your Eye is the Cursor** — Spectacles' eye-tracking makes your gaze the controller.
-- **The Gameplay Loop** — Guide a flying bird by keeping your gaze locked on it while moving your head through a specific path of targets.
-- **Medical Verification** — To progress through levels, you must perform the movements correctly, ensuring patients hit the head-eye coordination benchmarks required for effective therapy.
-- **Immediate Feedback** — Clear visual and audio cues give patients and doctors confidence that rehab is being done the right way.
+- **Your Eye is the Cursor** - Spectacles' eye-tracking makes your gaze the controller.
+- **The Gameplay Loop** - Guide a flying bird by keeping your gaze locked on it while moving your head through a specific path of targets.
+- **Medical Verification** - To progress through levels, you must perform the movements correctly, ensuring patients hit the head-eye coordination benchmarks required for effective therapy.
+- **Immediate Feedback** - Clear visual and audio cues give patients and doctors confidence that rehab is being done the right way.
 
 ## ⏩ What's Next
 
-- **Doctor Dashboard** — Data logging so clinicians can remotely monitor patient accuracy and frequency.
-- **Expanded Exercise Library** — New levels specifically designed for BPPV and other distinct vestibular conditions.
-- **Enhanced "Juice"** — More immersive environments and particle effects to increase engagement and long-term compliance.
+- **Doctor Dashboard** - Data logging so clinicians can remotely monitor patient accuracy and frequency.
+- **Expanded Exercise Library** - New levels specifically designed for BPPV and other distinct vestibular conditions.
+- **Enhanced "Juice"** - More immersive environments and particle effects to increase engagement and long-term compliance.
 
 ## 🛠️ Tech Stack
 
@@ -67,7 +69,7 @@ cd TheVestiEye
 
 ## 🤝 Contributing
 
-Contributions are welcome! Whether you want to add new exercise levels, improve the feedback system, or build out the doctor dashboard — open an issue or pull request.
+Contributions are welcome! Whether you want to add new exercise levels, improve the feedback system, or build out the doctor dashboard - open an issue or pull request.
 
 1. Fork the repo
 2. Create a feature branch: `git checkout -b feature/your-feature`
